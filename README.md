@@ -2,13 +2,21 @@
   
 # Elastic Diffusion Transformer
 
-[Jiangshan Wang](https://scholar.google.com/citations?user=HoKoCv0AAAAJ&hl=en)<sup>1,2</sup>, [Zeqiang Lai](https://zeqiang-lai.github.io/)<sup>2,3</sup>, [Jiarui Chen](https://scholar.google.com/citations?user=-kyuyBYAAAAJ&hl=zh-CN)<sup>2,4</sup>, [Jiayi Guo](https://www.jiayiguo.net)<sup>1</sup>, <br> [Hang Guo](https://csguoh.github.io/)<sup>1</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en&oi=ao)<sup>1</sup>, [Xiangyu Yue](https://xyue.io/)<sup>3</sup>, [Chunchao Guo](https://dblp.org/pid/207/7888.html)<sup>2</sup>
+[Jiangshan Wang](https://scholar.google.com/citations?user=HoKoCv0AAAAJ&hl=en)<sup>1,2</sup>, 
+[Zeqiang Lai](https://zeqiang-lai.github.io/)<sup>2,3†</sup>, 
+[Jiarui Chen](https://scholar.google.com/citations?user=-kyuyBYAAAAJ&hl=zh-CN)<sup>2,4</sup>, 
+[Jiayi Guo](https://www.jiayiguo.net)<sup>1</sup>, <br> 
+[Hang Guo](https://csguoh.github.io/)<sup>1</sup>, 
+[Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en&oi=ao)<sup>1</sup>, 
+[Xiangyu Yue](https://xyue.io/)<sup>3*</sup>, 
+[Chunchao Guo](https://dblp.org/pid/207/7888.html)<sup>2*</sup>
 
-<sup>1</sup> Tsinghua University,  <sup>2</sup> Tencent Hunyuan,  <sup>3</sup> CUHK MMLab,  <sup>4</sup> HITSZ
+<sup>1</sup> Tsinghua University,  <sup>2</sup> Tencent Hunyuan,  <sup>3</sup> CUHK MMLab,  <sup>4</sup> HITSZ  
+
+<sup>†</sup> Project Lead  <sup>*</sup> Corresponding Author  
 
 [![arXiv](https://img.shields.io/badge/arXiv-ElasticDiT-b31b1b.svg)](https://arxiv.org/abs/2602.13993)
 </div>
-
 
 
 
