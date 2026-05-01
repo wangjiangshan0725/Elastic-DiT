@@ -32,6 +32,7 @@ Diffusion Transformers (DiT) have demonstrated remarkable generative capabilitie
 </p>
 
 # 🔥 News
+- [2026.5.1] Our paper is accepted by ICML!
 - [2026.2.25] Inference code for image generation is released!
 - [2026.2.15] Paper released!
 
